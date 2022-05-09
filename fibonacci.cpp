@@ -5,7 +5,7 @@
    printf("enter the number of terms: ");
    scanf("%d", &n);
    printf("fibonacci series: ");
-   for(i=1;i<=n;++i)
+   for(i=1;i<=n;i++)
    {
      printf("%d, ",t1);
      nextterm=t1+t2;
